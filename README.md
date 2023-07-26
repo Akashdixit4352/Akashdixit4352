@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akashdixit4352
+- 👋 Hi, I’m Akash Sharma
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on Websites and applications based on Java
